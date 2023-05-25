@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnecoWallet</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
